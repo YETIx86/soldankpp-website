@@ -7,11 +7,7 @@
 ![image](https://github.com/YETIx86/soldankpp-website/assets/153613487/e44b276b-9073-41c5-b76e-37a47e756461)
 
 ## Setup
-Clone this repository to your desktop and run this command to install all the dependencies:
-```
-npm install
-```
-Use live server to run the project.
+Clone this repository to your desktop and use live server to run the project.
 
 ## Roadmap
 - Move CSS to SASS
